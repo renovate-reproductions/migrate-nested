@@ -1,0 +1,12 @@
+{
+    "packageRules": [
+    {
+      "matchBaseBranches": [
+        "main"
+      ],
+      "major": {
+        "enabled": true
+      }
+    }
+  ]
+}
